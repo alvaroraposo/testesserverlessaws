@@ -7,3 +7,4 @@
 ## 06 - Trabalhando com layers e edição de imagens com yumda e graphicsmagick.
 ## 07 - Utilizando Localstack para deploys locais.
 ## 08 - Leitura de dados sob demanda com streams, triggers, S3 e SQS.
+## 09 - Trabalhando com GraphQL e DynamoDB
