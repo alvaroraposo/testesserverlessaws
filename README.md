@@ -8,3 +8,4 @@
 ## 07 - Utilizando Localstack para deploys locais.
 ## 08 - Leitura de dados sob demanda com streams, triggers, S3 e SQS.
 ## 09 - Trabalhando com GraphQL e DynamoDB
+## 10 - Autenticação e Autorização
