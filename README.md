@@ -9,3 +9,4 @@
 ## 08 - Leitura de dados sob demanda com streams, triggers, S3 e SQS.
 ## 09 - Trabalhando com GraphQL e DynamoDB
 ## 10 - Autenticação e Autorização
+## 11 - CloudFront - Front-end Serverless
