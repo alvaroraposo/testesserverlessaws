@@ -10,3 +10,4 @@
 ## 09 - Trabalhando com GraphQL e DynamoDB
 ## 10 - Autenticação e Autorização
 ## 11 - CloudFront - Front-end Serverless
+## 12 - API Management, API Keys e Usage Plans
